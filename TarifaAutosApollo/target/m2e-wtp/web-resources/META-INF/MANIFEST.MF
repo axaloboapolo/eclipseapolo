@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: TarifaAutosApollo
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: MXE01510142A
+Implementation-Vendor-Id: mx.axa.autos.tarifa
+Build-Jdk: 1.8.0_144
+Implementation-URL: http://projects.spring.io/spring-boot/TarifaAutosA
+ pollo/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
