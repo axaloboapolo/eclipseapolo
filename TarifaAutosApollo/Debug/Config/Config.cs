@@ -1,0 +1,1 @@
+Provider=Microsoft.Jet.OLEDB.4.0;Data Source=C:\Users\omene\Downloads\ElBuenoFinal\ElBuenoFinal\Id_Autos\Id_Autos\bin\Debug\Data\Id_Grupo.mdb;
